@@ -1,0 +1,14 @@
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\bin\Debug\net6.0\observer.exe
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\bin\Debug\net6.0\observer.deps.json
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\bin\Debug\net6.0\observer.runtimeconfig.json
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\bin\Debug\net6.0\observer.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\bin\Debug\net6.0\observer.pdb
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\obj\Debug\net6.0\observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\obj\Debug\net6.0\observer.AssemblyInfoInputs.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\obj\Debug\net6.0\observer.AssemblyInfo.cs
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\obj\Debug\net6.0\observer.csproj.CoreCompileInputs.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\obj\Debug\net6.0\observer.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\obj\Debug\net6.0\refint\observer.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\obj\Debug\net6.0\observer.pdb
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\obj\Debug\net6.0\observer.genruntimeconfig.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\observer\obj\Debug\net6.0\ref\observer.dll

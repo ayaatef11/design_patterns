@@ -1,0 +1,17 @@
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\bin\Debug\net6.0\Interpretere.exe
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\bin\Debug\net6.0\Interpretere.deps.json
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\bin\Debug\net6.0\Interpretere.runtimeconfig.json
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\bin\Debug\net6.0\Interpretere.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\bin\Debug\net6.0\Interpretere.pdb
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\bin\Debug\net6.0\ObjectDumping.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\Interpretere.csproj.AssemblyReference.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\Interpretere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\Interpretere.AssemblyInfoInputs.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\Interpretere.AssemblyInfo.cs
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\Interpretere.csproj.CoreCompileInputs.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\Interpretere.csproj.CopyComplete
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\Interpretere.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\refint\Interpretere.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\Interpretere.pdb
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\Interpretere.genruntimeconfig.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\Interpretere\obj\Debug\net6.0\ref\Interpretere.dll

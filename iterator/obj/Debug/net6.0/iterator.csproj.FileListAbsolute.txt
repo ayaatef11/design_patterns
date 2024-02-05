@@ -1,0 +1,17 @@
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\bin\Debug\net6.0\iterator.exe
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\bin\Debug\net6.0\iterator.deps.json
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\bin\Debug\net6.0\iterator.runtimeconfig.json
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\bin\Debug\net6.0\iterator.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\bin\Debug\net6.0\iterator.pdb
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\iterator.AssemblyInfoInputs.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\iterator.AssemblyInfo.cs
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\iterator.csproj.CoreCompileInputs.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\iterator.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\refint\iterator.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\iterator.pdb
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\iterator.genruntimeconfig.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\ref\iterator.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\bin\Debug\net6.0\ObjectDumping.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\iterator.csproj.AssemblyReference.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\iterator\obj\Debug\net6.0\iterator.csproj.CopyComplete

@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ObjectDumper.NET/4.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ObjectDumping.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/ObjectDumping.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObjectDumper.NET/4.1.3": {
+      "sha512": "eHN5hmUjSiVtfFUhmnxHP3hYnjD3nNrZBsZjwIlBU0sibLMgvtupiAv4fUINKxTPGz7ToWuvpc27SdqpxUcASA==",
+      "type": "package",
+      "path": "objectdumper.net/4.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net48/ObjectDumping.dll",
+        "lib/net6.0/ObjectDumping.dll",
+        "lib/net7.0/ObjectDumping.dll",
+        "lib/netstandard1.2/ObjectDumping.dll",
+        "lib/netstandard2.0/ObjectDumping.dll",
+        "lib/netstandard2.1/ObjectDumping.dll",
+        "objectdumper.net.4.1.3.nupkg.sha512",
+        "objectdumper.net.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ObjectDumper.NET >= 4.1.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Aya Atef\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Aya Atef\\Downloads\\Track\\designPatterns\\Interpretere\\Interpretere.csproj",
+      "projectName": "Interpretere",
+      "projectPath": "C:\\Users\\Aya Atef\\Downloads\\Track\\designPatterns\\Interpretere\\Interpretere.csproj",
+      "packagesPath": "C:\\Users\\Aya Atef\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aya Atef\\Downloads\\Track\\designPatterns\\Interpretere\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Aya Atef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "ObjectDumper.NET": {
+            "target": "Package",
+            "version": "[4.1.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

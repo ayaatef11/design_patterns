@@ -1,0 +1,4 @@
+C:\Users\Aya Atef\Downloads\Track\designPatterns\strategy\obj\Debug\net6.0\strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya Atef\Downloads\Track\designPatterns\strategy\obj\Debug\net6.0\strategy.AssemblyInfoInputs.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\strategy\obj\Debug\net6.0\strategy.AssemblyInfo.cs
+C:\Users\Aya Atef\Downloads\Track\designPatterns\strategy\obj\Debug\net6.0\strategy.csproj.CoreCompileInputs.cache

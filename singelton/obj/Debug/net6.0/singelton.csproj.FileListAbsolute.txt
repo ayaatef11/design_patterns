@@ -1,0 +1,14 @@
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\bin\Debug\net6.0\singelton.exe
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\bin\Debug\net6.0\singelton.deps.json
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\bin\Debug\net6.0\singelton.runtimeconfig.json
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\bin\Debug\net6.0\singelton.dll
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\bin\Debug\net6.0\singelton.pdb
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\obj\Debug\net6.0\singelton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\obj\Debug\net6.0\singelton.AssemblyInfoInputs.cache
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\obj\Debug\net6.0\singelton.AssemblyInfo.cs
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\obj\Debug\net6.0\singelton.csproj.CoreCompileInputs.cache
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\obj\Debug\net6.0\singelton.dll
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\obj\Debug\net6.0\refint\singelton.dll
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\obj\Debug\net6.0\singelton.pdb
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\obj\Debug\net6.0\singelton.genruntimeconfig.cache
+C:\Users\Aya Atef\Downloads\Track\c#\singelton\obj\Debug\net6.0\ref\singelton.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BrXlscMAJ+Te3WBrS0eSn0y48gG2aXJRDiYVIBjXAlPlBc2mWLv3sr6jEJjYD69OVZUmRzuLgg5H4B3u53ERxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aya Atef\\Downloads\\Track\\designPatterns\\template\\template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aya Atef\\.nuget\\packages\\objectdumper.net\\4.1.3\\objectdumper.net.4.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

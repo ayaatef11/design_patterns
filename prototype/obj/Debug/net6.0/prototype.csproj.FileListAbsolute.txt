@@ -1,0 +1,14 @@
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\bin\Debug\net6.0\prototype.exe
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\bin\Debug\net6.0\prototype.deps.json
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\bin\Debug\net6.0\prototype.runtimeconfig.json
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\bin\Debug\net6.0\prototype.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\bin\Debug\net6.0\prototype.pdb
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\obj\Debug\net6.0\prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\obj\Debug\net6.0\prototype.AssemblyInfoInputs.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\obj\Debug\net6.0\prototype.AssemblyInfo.cs
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\obj\Debug\net6.0\prototype.csproj.CoreCompileInputs.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\obj\Debug\net6.0\prototype.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\obj\Debug\net6.0\refint\prototype.dll
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\obj\Debug\net6.0\prototype.pdb
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\obj\Debug\net6.0\prototype.genruntimeconfig.cache
+C:\Users\Aya Atef\Downloads\Track\designPatterns\prototype\obj\Debug\net6.0\ref\prototype.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "decoder", "decoder.csproj", "{2DE91573-A0BF-4B4E-8E74-C35F5F6A4302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "decoder2", "..\decoder2\decoder2.csproj", "{7C0A6674-FF8E-400B-BEA3-618BD2DAED0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE91573-A0BF-4B4E-8E74-C35F5F6A4302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE91573-A0BF-4B4E-8E74-C35F5F6A4302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE91573-A0BF-4B4E-8E74-C35F5F6A4302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE91573-A0BF-4B4E-8E74-C35F5F6A4302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0A6674-FF8E-400B-BEA3-618BD2DAED0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0A6674-FF8E-400B-BEA3-618BD2DAED0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0A6674-FF8E-400B-BEA3-618BD2DAED0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0A6674-FF8E-400B-BEA3-618BD2DAED0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BE09D45-67C1-4624-9B93-BE7A5A296A47}
+	EndGlobalSection
+EndGlobal
